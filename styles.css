@@ -365,9 +365,6 @@ footer p span {
   * {
     font-size: 3rem;
   }
-  body {
-    border: 1px solid black;
-  }
   nav,
   main,
   footer {
